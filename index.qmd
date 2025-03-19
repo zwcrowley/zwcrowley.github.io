@@ -1,11 +1,11 @@
 ---
-title: "Welcome to My Project"
+title: "Welcome to My Personal Website"
 --- 
 
 # Introduction
 
-#### This is the documentation for my data project. Here you’ll find:
+#### This is the documentation for my data projects. Here you’ll find:
 
-- **Overview of the project**
+- **Overview of the projects**
 - **Data sources**
 - **Analysis results**

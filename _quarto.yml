@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "My Data Project"
+  title: "Zack Crowley's Personal Website"
   navbar:
     background: primary
     left:
@@ -16,7 +16,7 @@ website:
         text: "About"
     right:
       - icon: github
-        href: https://github.com/zwcrowley/data_project
+        href: https://github.com/zwcrowley
 
 format:
   html:

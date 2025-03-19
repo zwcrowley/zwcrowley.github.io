@@ -1,0 +1,15 @@
+{
+  "hash": "5b9f2d91e365e23f27e32e173c0827b9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Analysis\"\n---\n\n\n\n\n\n# Analysis Results\n\nBelow are the results of the analysis:\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Include your R code here\nsummary(cars)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

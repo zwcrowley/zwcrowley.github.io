@@ -1,39 +1,14 @@
 /* h1 heading tag */
 h1 {
-    /* Align the text to the center of its enclosing element (e.g. div). */
-    text-align: center;
-    /* Underline the text. */
-    text-decoration: underline;
-    /* Change font color */
-    color: rgb(244, 11, 11); 
-  }
-h2 {
-    /* Change font color */
-    color: rgb(11, 170, 244); 
-  }
-
-h3 {
-    /* Change font color */
-    color: rgb(36, 51, 36); 
-  }
-
-img {
-    box-shadow: 10px 10px 10px rgb(24, 34, 58);
+  /* Align the text to the center of its enclosing element (e.g. div). */
+  text-align: center;
+  /* Underline the text. */
+  text-decoration: underline;
+  /* Change font color */
+  color: rgb(244, 11, 11); 
 }
 
-section {
-    background-color:darkslategray;
-} 
-
-p {
-    text-align: center;
-    font-size: 20px;
-  } 
-
-ul {
-   /* Give an element a solid border. */
-   border-style: solid;
-   /* Render the border 5 pixels thick. */
-   border-width: 5px; 
-   border-color: darkorchid;
+h2 {
+  /* Change font color */
+  color: rgb(11, 170, 244); 
 }

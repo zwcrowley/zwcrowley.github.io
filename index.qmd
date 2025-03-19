@@ -1,0 +1,11 @@
+---
+title: "Welcome to My Project"
+--- 
+
+# Introduction
+
+#### This is the documentation for my data project. Here you’ll find:
+
+- **Overview of the project**
+- **Data sources**
+- **Analysis results**

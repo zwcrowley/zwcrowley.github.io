@@ -1,0 +1,13 @@
+---
+title: "Analysis"
+---
+
+# Analysis Results
+
+Below are the results of the analysis:
+
+```{r}
+# Include your R code here
+summary(cars)
+```
+

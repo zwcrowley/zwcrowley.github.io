@@ -1,2 +1,3 @@
 # zwcrowley.github.io
-github pages example for class
+
+github pages for personal website
